@@ -6,7 +6,7 @@ Final Project of the Udacity Front End Development Nanodegree. I used the provid
 
 ## Live
 
-[https://shanclayton.github.io/landing-page/](https://shanclayton.github.io/landing-page/)
+- [Live Version](https://shanclayton.github.io/landing-page/)
 
 ## Resources
 
