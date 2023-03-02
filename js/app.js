@@ -19,7 +19,7 @@
  */
 const navbar = document.querySelector(".navbar__menu");
 const navList = document.querySelector("#navbar__list");
-const section = document.querySelectorAll("section");
+const sections = document.querySelectorAll("section");
 let scrolling = false;
 let cursor;
 
