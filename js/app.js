@@ -47,7 +47,7 @@ function inRange(curr, section) {
   return false;
 }
 
-// check if section is active returns boolean
+// check if section is active
 function isActive(section) {
   if (section.classList.length > 0) {
     return true;
