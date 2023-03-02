@@ -11,4 +11,4 @@ Final Project of the Udacity Front End Development Nanodegree. I used the provid
 ## Resources
 
 - [Coolors](https://www.coolors.co)
-- [HTML Colors](https://htmlcolors.com/gradient):
+- [HTML Colors](https://htmlcolors.com/gradient)
